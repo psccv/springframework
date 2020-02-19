@@ -6,7 +6,7 @@
 [라이센스 보기](https://github.com/spring-projects/spring-framework/blob/master/src/docs/dist/license.txt)
 ***
 >작업일자(아래): 20200219
-### 책을 내용을 기반으로 스프링 시큐리티 및 회원관리 + 관리자단 추가.
+### 책을 내용을 기반으로 스프링 시큐리티 및 회원관리 + admin(관리자)화면 추가.
 - mysql, hsql 지원 코드 추가(기본은 hsql) src/main/webapp/WEB-INF/spring/root-context.xml 설정
 ```xml
     <jdbc:embedded-database id="dataSource" type="HSQL">
