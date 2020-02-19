@@ -27,5 +27,5 @@
 ```
 
 ### hsql메모리 Db 와 mysql Db 파일위치.
-- hsql메모리 DB : src/main/resources/db/edu_hsql.sql 파일.
-- mysql Db : /DATABASE/edu_mysql.sql 파일.
+- hsql메모리 DB : src/main/resources/db/edu_hsql.sql 파일. [결과 보기](https://spring-edu.herokuapp.com/)
+- mysql Db : /DATABASE/edu_mysql.sql 파일. [결과 보기](http://edu.paas-ta.org/)
