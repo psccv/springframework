@@ -5,6 +5,10 @@
 부트스트랩/AdminLTE/기타등등<br>책 내에서 사용된 외부 오픈소스의 경우 원 오픈소스의 라이선스 정책을 유지합니다.
 [라이센스 보기](https://github.com/spring-projects/spring-framework/blob/master/src/docs/dist/license.txt)
 ***
+>작업일자(아래): 20200220
+### 이클립스에서 UML Explorer 설치 및 게시판 메서드구조확인.
+- [관련 작업정보 보기](http://blog.daum.net/web_design/682): http://blog.daum.net/web_design/682
+
 >작업일자(아래): 20200219
 ### 책을 내용을 기반으로 스프링 시큐리티 및 회원관리 + admin(관리자)화면 추가.
 - mysql, hsql 지원 코드 추가(기본은 hsql) src/main/webapp/WEB-INF/spring/root-context.xml 설정
